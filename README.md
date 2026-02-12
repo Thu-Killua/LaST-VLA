@@ -18,7 +18,7 @@ While Vision-Language-Action (VLA) models have revolutionized autonomous driving
 
 ## 🖼️ Visualization
 <div align="center">
-<img width="800" alt="image" src="assets/visual">
+<img width="800" alt="image" src="assets/visual.jpg">
 <p>Qualitative visualization comparing the Textual CoT baseline (Red) and LaST-VLA (Green). (a) Drivable Area Compliance (DAC): Our method maintains precise lane adherence, whereas the baseline violates spatial boundaries. (b) Time-to-Collision (TTC): Our method accurately anticipates dynamics to avoid rear-end collisions, while the baseline fails to brake effectively.</p>
 </div>
 
