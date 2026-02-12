@@ -42,7 +42,7 @@ If you find LaST-VLA useful in your research or application, please cite using t
 ```bibtex
 @article{lastvla2025,
   title={LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+  author={X},
+  journal={X},
+  year={2026}
 }
